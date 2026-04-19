@@ -2,7 +2,7 @@
   "name": "Génie ✨",
   "short_name": "Génie",
   "description": "Ton assistant magique — devoirs, look & social",
-  "start_url": "/",
+  "start_url": "/genie-app/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#04021a",

@@ -1,5 +1,5 @@
 const CACHE = 'genie-v1';
-const ASSETS = ['/', '/index.html', '/manifest.json'];
+const ASSETS = ['/genie-app/', '/genie-app/index.html', '/genie-app/manifest.json', '/genie-app/js/stars.js'];
 
 self.addEventListener('install', e =>
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)))
