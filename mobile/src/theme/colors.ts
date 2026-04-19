@@ -1,0 +1,17 @@
+export const colors = {
+  background: '#000000',
+  surface: '#111111',
+  surfaceLight: '#1C1C1E',
+  border: '#2C2C2E',
+  primary: '#FF2D55',
+  blue: '#0A84FF',
+  green: '#30D158',
+  yellow: '#FFD60A',
+  text: '#FFFFFF',
+  textSecondary: '#ABABAB',
+  textMuted: '#555555',
+  online: '#30D158',
+  overlay: 'rgba(0,0,0,0.55)',
+  overlayDark: 'rgba(0,0,0,0.75)',
+  storyGradient: ['#F58529', '#DD2A7B', '#8134AF', '#515BD4'] as string[],
+};
